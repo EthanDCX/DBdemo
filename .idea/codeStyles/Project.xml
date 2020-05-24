@@ -1,0 +1,24 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <JavaCodeStyleSettings>
+      <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
+      <option name="IMPORT_LAYOUT_TABLE">
+        <value>
+          <package name="javax" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="java" withSubpackages="true" static="false" />
+          <emptyLine />
+          <package name="" withSubpackages="true" static="false" />
+          <package name="" withSubpackages="true" static="true" />
+        </value>
+      </option>
+    </JavaCodeStyleSettings>
+    <ScalaCodeStyleSettings>
+      <option name="TYPE_ANNOTATION_LOCAL_DEFINITION" value="true" />
+      <option name="TYPE_ANNOTATION_FUNCTION_PARAMETER" value="true" />
+      <option name="TYPE_ANNOTATION_UNDERSCORE_PARAMETER" value="true" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_MEMBER_OF_ANONYMOUS_CLASS" value="true" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_IN_TEST_SOURCES" value="true" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
